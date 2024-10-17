@@ -46,9 +46,7 @@
 <!-- Social Sites & Connecting -->
 ### Connect With Me On - 
 
-<a href="https:https://www.instagram.com/its.mansiiee/" target="blank" title="Instagram">
-	<img align="left" alt="Instagram" height="25px" width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/mansidixit2309/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
