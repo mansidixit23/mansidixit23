@@ -1,41 +1,46 @@
+### Hi there 👋, I'm [Mansi Dixit](https://github.com/mansidixit23) 👨‍💻
 
-
-<h1 align="center">Hi 👋, I'm Mansi Dixit</h1>
-<h3 align="center">Competitive Programmer | Full Stack Developer</h3>
-
-<div style="display: flex; align-items: center;">
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mansidixit23&label=Profile%20views&color=0e75b6&style=flat" alt="mansidixit23 profile views" />
-  </p>
-  <img align="right" alt="coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" />
-</div>
-
-
-- 🌱 I’m currently learning **Full Stack Web Development**  
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/mansidixit23?tab=repositories)  
-- 📝 I regularly write articles on [Space and Technology](#)  
-- 💬 Ask me about **D3 - Design, Develop & Deploy**  
-- 📫 How to reach me: **23dixitmansi@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ASmxCU2dBJ9EzwOUxZFnXreM0bc1o4xX/view?usp=drive_link)  
-- ⚡ Fun fact: **I love planning and organizing everything down to the last detail! This habit has helped me consistently deliver projects on time.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/23dixitmansi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mansidixit2309" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mansiinfinity" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/23dixitmansi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.vZyERGwMkxtF3A5pfYmJUwAAAA?rs=1&pid=ImgDetMain" height="160"/>
 </p>
+<h2 align="center">
+ <a href="https://mansidixit23.github.io/mansi-s-portfolio/" target="_blank">
+  My Portfolio 😋👑
+</a>
+</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansidixit23" alt="Mansi Dixit" /> </p>
+<a href="https://www.linkedin.com/in/mansidixit2309/">
+  <strong><img align="left" alt="Mansi's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" /></strong>
+</a>
+<a href="https://x.com/23dixitmansi">
+  <strong><img align="left" alt="Mansi Dixit| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="filter: invert(100%);" /></strong>
+</a>
+<a href="mailto:23dixitmansi@gmail.com">
+  <strong><img align="left" alt="Mansi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="filter: invert(100%);" /></strong>
+</a>
+
+<br />
+<br/>
+
+<p>
+A Skilled Full Stack Web Developer 🚀 Always working on projects or learning something new!<br/> 
+Want to become a full-time Web Developer 💸 and an Open Source Contributor ❤️.
+</p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+### ✨ Quick Facts
+
+- 👨🏽‍💻 I’m currently working as Head Of Public Relations at TechMasters Community.
+- 🌱 I’m currently learning Full Stack Web Development.
+- 💬 Ask me about anything related to D3 - Design, Develop & Deploy. (After googling it 😜😌)
+  ⚡️ Fun-Fact: I love planning and organizing everything down to the last detail! This habit has helped me consistently deliver projects on time.🙃.
+- 🎿 Hobbies other than coding: Reading blogs about Fashion, Listening to Podcasts, Playing games.
+- 📫 How to reach me: [23dixitmansi@gmail.com](mailto:23dixitmansi@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1VI3abLAocwCDxEzg5y0UrI8daXmNX9b3/view?usp=drivesdk)
+
+### 🛠️ Languages and Tools:
+
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40" />
@@ -101,20 +106,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansidixit23&show_icons=true&locale=en&layout=compact" alt="Mansi Dixit's top languages" width="400" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansidixit23&show_icons=true&locale=en" alt="Mansi Dixit's GitHub stats" width="400" />
-</p>
