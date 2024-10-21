@@ -32,7 +32,7 @@ Want to become a full-time Web Developer 💸 and an Open Source Contributor ❤
 - 👨🏽‍💻 I’m currently working as Head Of Public Relations at TechMasters Community.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💬 Ask me about anything related to D3 - Design, Develop & Deploy. (After googling it 😜😌)
-  ⚡️ Fun-Fact: I love planning and organizing everything down to the last detail! This habit has helped me consistently deliver projects on time.🙃.
+-⚡️ Fun-Fact: I love planning and organizing everything down to the last detail! This habit has helped me consistently deliver projects on time.🙃.
 - 🎿 Hobbies other than coding: Reading blogs about Fashion, Listening to Podcasts, Playing games.
 - 📫 How to reach me: [23dixitmansi@gmail.com](mailto:23dixitmansi@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VI3abLAocwCDxEzg5y0UrI8daXmNX9b3/view?usp=drivesdk)
