@@ -9,19 +9,17 @@
 </a>
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansidixit23" alt="Mansi Dixit" /> </p>
-<a href="https://www.linkedin.com/in/mansidixit2309/">
-  <strong><img align="left" alt="Mansi's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" /></strong>
-</a>
-<a href="https://x.com/23dixitmansi">
-  <strong><img align="left" alt="Mansi Dixit| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="filter: invert(100%);" /></strong>
-</a>
-<a href="mailto:23dixitmansi@gmail.com">
-  <strong><img align="left" alt="Mansi's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="filter: invert(100%);" /></strong>
-</a>
+<!-- [![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,instagram,)](https://skillicons.dev) -->
 
-<br />
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href=" https://www.linkedin.com/in/mansidixit2309/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a href=" https://x.com/23dixitmansi ">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+     
+    
+  </a>
 
 <p>
 A Skilled Full Stack Web Developer 🚀 Always working on projects or learning something new!<br/> 
